@@ -1,2 +1,2 @@
 # ngu-inj
-Batch script to launch NGU Idle &amp; rvazarkar's NGU Injector at the same time.
+Batch script to launch NGU Idle through Steam &amp; rvazarkar's NGU Injector at the same time.
